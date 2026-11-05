@@ -19,7 +19,7 @@ mechanical design, and control systems.
 
 ## Hardware and Software
 
-Hardware: Raspberry Pi 4B, IMX708 Camera Module, 3 HiWonder HX-35H servo motors, and Hiwonder BusLinker V3.0 Servo Debugging Board
+Hardware: Raspberry Pi 4B, IMX708 Camera Module, 3 HiWonder HX-35H servo motors, and Hiwonder BusLinker V3.0 Servo Debugging Board\
 Software: Raspberry Pi OS, OpenCV Python Library
 
 ## Building and Running
